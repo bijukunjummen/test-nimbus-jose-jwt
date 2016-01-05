@@ -1,0 +1,18 @@
+{
+  "keys": [
+    {
+      "p": "2_Fb6K50ayAsnnQl55pPegE_JNTeAjpDo9HThZPp6daX7Cm2s2fShtWuM8JBv42qelKIrypAAVOedLCM75VoRQ",
+      "kty": "RSA",
+      "q": "ye5BeGtkx_9z3V4ImX2Pfljhye7QT2rMhO8chMcCGI4JGMsaDBGUmGz56MHvWIlcqBcYbPXIWORidtMPdzp1wQ",
+      "d": "gSjAIty6uDAm8ZjEHUU4wsJ8VVSJInk9iR2BSKVAAxJUQUrCVN---DKLr7tCKgWH0zlV0DjGtrfy7pO-5tcurKkK59489mOD4-1kYvnqSZmHC_zF9IrCyZWpOiHnI5VnJEeNwRz7EU8y47NjpUHWIaLl_Qsu6gOiku41Vpb14QE",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "sample",
+      "qi": "0bbcYShpGL4XNhBVrMI8fKUpUw1bWghgoyp4XeZe-EZ-wsc43REE6ZItCe1B3u14RKU2J2G57Mi9f_gGIP_FqQ",
+      "dp": "O_qF5d4tQUl04YErFQ2vvsW4QoMKR_E7oOEHndXIZExxAaYefK5DayG6b8L5yxMG-nSncZ1D9ximjYvX4z4LQQ",
+      "alg": "RS512",
+      "dq": "jCy-eg9i-IrWLZc3NQW6dKTSqFEFffvPWYB7NZjIVa9TlUh4HmSd2Gnd2bu2oKlKDs1pgUnk-AAicgX1uHh2gQ",
+      "n": "rX0zzOEJOTtv7h39VbRBoLPQ4dRutCiRn5wnd73Z1gF_QBXYkrafKIIvSUcJbMLAozRn6suVXCd8cVivYoq5hkAmcRiy0v7C4VuB1_Fou7HHoi2ISbwlv-kiZwTmXCn9YSHDBVivCwfMI87L2143ZfYUcNxNTxPt9nY6HJrtJQU"
+    }
+  ]
+}

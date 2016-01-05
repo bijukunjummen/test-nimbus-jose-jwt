@@ -1,0 +1,9 @@
+target/
+project/target
+project/project/target
+.idea
+.sbtserver
+*.iml
+*.ipr
+activator-launch*.jar
+project/.sbtserver.lock
